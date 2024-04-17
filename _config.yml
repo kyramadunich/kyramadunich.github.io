@@ -12,7 +12,7 @@ title                    : "Kyra Madunich-Arevalo / Portfolio"
 title_separator          : "-"
 name                     : &name "Kyra Madunich-Arevalo"
 description              : &description "Mapping Projects"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kyramadunich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kyramadunich/kyramadunich.github.io"
 
