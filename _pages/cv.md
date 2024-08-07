@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Geography and Environmental Systems, University of Maryland, Baltimore County, 2023-Present
+* B.S. in Biology, Pomona College, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2022-August 2023: Communications Associate, League of Conservation Voters
+  * Duties included: Drafting press releases in response to national environmental policy, inluding all endorsement press releases For 2022 Midterm elections, pitching environmental news to state and national reporters, coordinating campaign release timelines in partnership with political campaigns and other endorsing organizations
+  * ***January 2023-June 2023: Communications Intern, League of Conservation Voters
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June-July 2022: Naturalist guide, Project Puffin 
+  * Duties included: Lead Puffin tours for Maine Audubon, which consisted of three hour round trip boat tours to an islet representing North America's first restored puffin colony. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August-November 2021: Monarch Field Naturalist, New Jersey Audubon/Cape May Bird Observatory
+  * Duties included: Crafted bilingual social media posts and blog posts, reaching 130% more accounts/engaged 45% more accounts on Instagram between 1st and 2nd half of field season, translated both written and oral outreach materials from English to Spanish, p Yes articipated in local television segment (6 ABC Philadelphia) on monarch butterfly migration
+
+June- August 2021 Field Technician, Oregon Marbled Murrelet Project (Oregon State University) April 2021-August 2021
+ * Duties included: Conducted nest searches through remote forest using radio telemetry, conducted Avian point counts
+
+
+Grants and Scholarships:
+
+*Semi-finalist, Fulbright Open Research Award (Chile) March 2021
+
+*Semi-finalist, Fulbright Open Research Award (Chile) March 2021
+
+*RAISE Grant (Examining Spanish Racial Identities) March 2020
+
+*PCIP Grant Recipient (Presented research at Pacific Seabird Group Conference) June 2020 – May 2021
+Envirolab Asia Fellow, Japan January 2019- June 2019
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*GIS and R programming
+*Native Spanish speaker
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Meyer, W.M., III; Halligan, C.; Thomey, L.; Madunich-Arévalo, K.; Parry, C.; Scaff, R.; Macy, R.; Jones, I.; Halligan, E.; Jaramillo, A.; et al. Herbivore Influence on Post-Fire California Sage Scrub Plant and Soil Microbial Assemblages. Diversity 2022, 14, 1110. https://doi-org.proxy-bc.researchport.umd.edu/10.3390/d14121110
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Co-founder/Board Member, UCSC Doris Duke Conservation Scholars Alumni Association 
+* Duties included: Drafted bylaws and mission to build a collective voice and strengthen a diverse, lifelong conservation community, coordinated collective action, virtual events, group statements, and communication with alumni network
